@@ -1,2 +1,2 @@
 # Naam
-React-Mui custom theme
+React material-ui custom theme
